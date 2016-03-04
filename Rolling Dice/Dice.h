@@ -1,4 +1,6 @@
-#include<iostream>
+#ifndef DICE_H
+#define DICE_H
+
 class Dice
 {
 public:
@@ -9,3 +11,4 @@ public:
 	~Dice();
 };
 
+#endif //DICE_H
